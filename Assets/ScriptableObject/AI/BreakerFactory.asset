@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b654207b96d8c704fb7c4a4d1d259b28, type: 3}
+  m_Name: BreakerFactory
+  m_EditorClassIdentifier: 
+  aiPrefab: {fileID: 9051368053081970756, guid: fccbc869f4650384db1cd3bd8d5422c6,
+    type: 3}

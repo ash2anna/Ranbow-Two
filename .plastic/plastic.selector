@@ -1,0 +1,4 @@
+repository "R2@freshwatercarote@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
